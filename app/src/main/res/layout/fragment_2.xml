@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#889F47">
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" You can put some info here \n such as City name, Population, Area \n or something else \n on this fragment"
+        android:textColor="#000101"
+        android:textSize="20sp"/>
+
+</LinearLayout>
